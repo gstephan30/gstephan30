@@ -9,10 +9,10 @@ What I do? I solve problems using **data**! Currently, I work as a _data scienti
 Teaching and holding talks is my second passion. I am teaching machine learning and I do love to visualise complex data with simple graphs. Teaching helps me understanding complex circumstances. "If you can't explain it simply, you don't understand it well enough." _(Einstein)_ Therefore, I am regularly exploring different kinds of data to improve and adapt my expertise. 
 
 ## Skills
-- 🖥️ I'm programming in R and python, for everythng else I use SQL, bash
+- 🖥️ I'm programming in __R__ and __python__, for everything else I use a lot of other languages, like __SQL__ or simply __bash__
 - 📰 For reporting my results I use the JAM-Stack (netlify), shiny applications, markdown and a bit AWS
 - ⏱️ I spend the most time of my day with importing data from several APIs, raw data files and transforming all of this into nice and clean (yes _'tidy'_) data
-- 🙊 I'm fluent in English and German, I can read Russian and explore Spanish
+- 🙊 I'm fluent in English and German, I can read Russian and explore Finnish
 - 💬 I'm absolutly passionate about exploratory data mining, data quality, user experience research, data viz, badminton, climbing, aquaponics
  
 ## Get in touch
