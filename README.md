@@ -11,7 +11,7 @@ Teaching and holding talks is my second passion. I am teaching machine learning 
 ## Skills
 - 🖥️ I'm programming in ___R___ and ___python___, for everything else I use a lot of other languages, like ___SQL___ or simply ___bash___
 - 😍 I love unstructured data: ___Text mining___, ___Machine Learning___ (incl. ___Deep learning___ with Tensorflow)
-- 📰 For reporting my results I use the ___JAM-Stack___ (netlify), ___shiny___ applications, ___markdown___, ___docker___ and a bit ___AWS___
+- 📰 For reporting my results I use the ___JAMstack___ (netlify), ___shiny___ applications, ___markdown___, ___docker___ and a bit ___AWS___
 - ⏱️ I spend the most time of my day with importing data from several APIs, raw data files and transforming all of this into nice and clean (yes _'tidy'_) data
 - 🙊 I'm fluent in English and German, I can read Russian and explore Finnish
 - 💬 I'm absolutly passionate about exploratory data mining, data quality, user experience research, data viz, badminton, climbing, aquaponics
