@@ -4,7 +4,7 @@
 
 Hi 👋, I am Stephan.
 
-What I do? I solve problems using **data**! Currently, I work as a _data scientist_ in epidemiology, developing business intelligence solutions (e.g. KPI dashboards) for internal and external stakeholders, as well as developing data-related products (web-based platforms). I received my PhD in Computer Science at the University of Melbourne and could get a lot experience about data related products during this time within the Melbourne eResearch Group.
+What I do? I solve problems using **data**! Currently, I work as a _data scientist_ in epidemiology, developing business intelligence solutions (e.g. KPI dashboards) for internal and external stakeholders, as well as developing data-related products (web-based platforms). I received my PhD in Computer Science at the University of Melbourne and could get a lot experience in data analysis/data profiling within the Melbourne eResearch Group.
 
 Teaching and holding talks is my second passion. I am teaching machine learning and I do love to visualise complex data with simple graphs. Teaching helps me to understand complex circumstances. "If you can't explain it simply, you don't understand it well enough." _(Einstein)_ Therefore, I am regularly exploring different kinds of data to improve and adapt my expertise. 
 
