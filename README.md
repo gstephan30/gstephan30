@@ -14,7 +14,7 @@ Teaching and holding talks is my second passion. I am teaching machine learning 
 - 📰 For reporting my results I use the ___JAMstack___ (netlify), ___shiny___ applications, ___markdown___, ___docker___ and a bit ___AWS___
 - ⏱️ I spend the most time of my day with importing data from several APIs, raw data files and transforming all of this into nice and clean (yes _'tidy'_) data
 - 🙊 I'm fluent in English and German, I can read Russian and explore Finnish
-- 💬 I'm absolutly passionate about exploratory data mining, data quality, user experience research, data viz, badminton, climbing, aquaponics, playing and scrapping data about boardgames & videogames
+- 💬 I'm absolutly passionate about exploratory data mining, data quality, user experience research/gamification, data viz, badminton, climbing, aquaponics, playing and scrapping data about boardgames & videogames
  
 ## Get in touch
 [![Twitter Badge](https://img.shields.io/badge/-Stephan-blue?style=flat-square&logo=twitter)](http://twitter.com/gstephan30)
