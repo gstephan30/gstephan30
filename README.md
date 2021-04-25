@@ -20,6 +20,10 @@ Teaching and holding talks is my second passion. I am teaching machine learning 
 [![Twitter Badge](https://img.shields.io/badge/-Stephan-blue?style=flat-square&logo=twitter)](http://twitter.com/gstephan30)
 [![Linkedin Badge](https://img.shields.io/badge/-Stephan-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephan-gl%C3%B6ckner-330851118/)
 
+
+[![gstephan30's github stats](https://github-readme-stats.vercel.app/api?username=gstephan30&count_private=true&hide=issues&show_icons=true&title_color=007ec6&icon_color=007ec6&line_height=24)](https://github.com/gstephan30)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gstephan30&layout=compact&langs_count=8&hide=php,css,html,javascript&title_color=007ec6&icon_color=007ec6)](https://sourcerer.io/gstephan30)
+
 <!--
 **gstephan30/gstephan30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,7 +38,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![gstephan30's github stats](https://github-readme-stats.vercel.app/api?username=gstephan30&count_private=true&hide=issues&show_icons=true&title_color=007ec6&icon_color=007ec6&line_height=24)](https://github.com/gstephan30)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gstephan30&layout=compact&langs_count=8&hide=php,css&title_color=007ec6&icon_color=007ec6)](https://sourcerer.io/gstephan30)
+
 
 -->
