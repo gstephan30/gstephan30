@@ -8,8 +8,8 @@ What do I do? I solve problems using data! I specialize in improving process qua
 
 Currently, I work as a _data scientist_ in manufacturing and quality assurance. My role involves:
 
-    Developing business intelligence solutions (e.g., KPI dashboards) for internal and external stakeholders
-    Building machine learning applications for monitoring and quality assurance using web-based platforms.
+- Developing business intelligence solutions (e.g., KPI dashboards) for internal and external stakeholders
+- Building machine learning applications and optimisation models for monitoring and quality assurance using web-based platforms.
 
 I earned my PhD in Computer Science from the University of Melbourne, where I gained extensive experience in data analysis and data profiling as part of the Melbourne eResearch Group.
 
