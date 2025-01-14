@@ -2,19 +2,64 @@
 
 ## Stephan Gloeckner
 
-Hi 👋, I am Stephan.
+Hi 👋, I’m Stephan!
 
-What I do? I solve problems using **data**! Currently, I work as a _data scientist_ in epidemiology, developing business intelligence solutions (e.g. KPI dashboards) for internal and external stakeholders, as well as developing data-related products (web-based platforms). I received my PhD in Computer Science at the University of Melbourne and could get a lot experience in data analysis/data profiling within the Melbourne eResearch Group.
+What do I do? I solve problems using data! I specialize in improving process quality in manufacturing and tackling challenges across various fields, including social media, video games, and e-commerce.
 
-Teaching and holding talks is my second passion. I am teaching machine learning and I do love to visualise complex data with simple graphs. Teaching helps me to understand complex circumstances. "If you can't explain it simply, you don't understand it well enough." _(Einstein)_ Therefore, I am regularly exploring different kinds of data to improve and adapt my expertise. 
+Currently, I work as a _data scientist_ in manufacturing and quality assurance. My role involves:
 
-## Skills
-- 🖥️ I'm programming in ___R___ and ___python___, for everything else I use a lot of other languages, like ___SQL___ or simply ___bash___
-- 😍 I love unstructured data: ___Text mining___, ___Machine Learning___ (incl. ___Deep learning___ with Tensorflow)
-- 📰 For reporting my results I use the ___JAMstack___ (netlify), ___shiny___ applications, ___markdown___, ___docker___ and a bit ___AWS___
-- ⏱️ I spend the most time of my day with importing data from several APIs, raw data files and transforming all of this into nice and clean (yes _'tidy'_) data
-- 🙊 I'm fluent in English and German, I can read Russian and explore Finnish
-- 💬 I'm absolutly passionate about exploratory data mining, data quality, user experience research/gamification, data viz, badminton, climbing, aquaponics, playing and scrapping data about boardgames & videogames
+    Developing business intelligence solutions (e.g., KPI dashboards) for internal and external stakeholders
+    Building machine learning applications for monitoring and quality assurance using web-based platforms.
+
+I earned my PhD in Computer Science from the University of Melbourne, where I gained extensive experience in data analysis and data profiling as part of the Melbourne eResearch Group.
+
+Teaching and sharing knowledge is another passion of mine. I teach machine learning and love simplifying complex data through clear, impactful visualizations. Teaching not only helps me share knowledge but also deepens my understanding. As Einstein said: _“If you can’t explain it simply, you don’t understand it well enough.”_
+
+To stay sharp, I regularly explore diverse datasets, read blogs or reddit and refine my expertise. Whether it’s improving processes, solving data challenges, or visualizing insights, I am always excited to tackle the next problem.
+
+### Programming and Tools
+- 🖥️ **Languages**: Proficient in **R**, **Python** (including **seaborn**, **shap**, **matplotlib**, and other typical libraries), **SQL** (MS SQL Server, PostgreSQL, MySQL), and **Bash**.
+- 🛠️ **Version Control**: Expertise with **GitHub**, **GitLab**, and **MS DevOps** (pipelines and workflows).
+- 📊 **Data Visualization**: Experienced with **Power BI**, **Qlik Sense**, **Grafana**, and libraries like **ggplot2**, **seaborn**, and **matplotlib**.
+- ☁️ **Cloud Platforms**: Skilled in **Azure**, **GCP**, and **AWS**.
+
+### Data Engineering and Integration
+- 📂 **Data Pipelines**: Proficient with **Apache Airflow**, pipeline automation via **MS DevOps** and **GitHub**.
+- 🔗 **APIs**: Extensive experience with **RESTful APIs** (import/export).
+- 🛠️ **Big Data**: Knowledge of **Hadoop** and **data engineering** frameworks.
+
+### Data Science and Analytics
+- 🔍 **Machine Learning**: Comprehensive expertise from regression to advanced techniques:
+  - **Supervised & Unsupervised Learning**
+  - **Deep Learning** with TensorFlow and PyTorch
+  - **Grid Hyperparameter Tuning**, **SHAP** for interpretability
+  - **Explorative & Predictive Modeling**
+- 🧠 **Large Language Models (LLMs)**: Hands-on experience with **Ollama**, **HuggingFace Transformers** for text generation, **text-to-image**, **image-to-text**, and **voice-to-text**.
+- 📈 **Time Series Analysis**: Extensive experience with forecasting tools like **Prophet**, change-point detection, and advanced techniques.
+- 🔢 **Optimization**: Expertise in linear programming with **lpsolveapi** for applications like resource optimization, cost reduction, and sample selection.
+- 🔍 **Predictive Maintenance**: Exploring sound and ultrasound analysis (e.g., **Frugatto**).
+
+### Data Quality and Assurance
+- ✅ **Quality Assurance**: Significant experience with:
+  - **Outlier Detection**, **Completeness Checks**
+  - **Trustworthiness Evaluation**, **Fraud Detection**
+  - **Duplicate Identification** and mitigation
+
+### Reporting and Deployment
+- 📜 **Reporting**: Skilled in **JAMstack**, **shiny** apps, **markdown**, and **dockerized** environments.
+- 🚀 **Model Deployment**: Experience with **Flask** and serving machine learning models in production.
+
+### Computer Vision
+- 👁️ **Vision Applications**: Expertise with **OpenCV** for various computer vision tasks.
+
+### Open Source and Community
+- 🌟 **Open Source Contributions**: Active on **GitHub**, **TidyTuesday**, and **StackOverflow**.
+- 👩‍🏫 **Teaching and Mentorship**: Mentored PhD students and contributed to skill development.
+
+### Passion and Hobbies
+- 💬 Passionate about **exploratory data mining**, **data visualization**, and gamification.
+- 🎮 Interested in **board games**, **video games**, and scrapping data about them on a lot of platforms.
+- 🧗 Enjoys **badminton**, **climbing**, and **aquaponics**.
  
 ## Get in touch
 [![Twitter Badge](https://img.shields.io/badge/-Stephan-blue?style=flat-square&logo=twitter)](http://twitter.com/gstephan30)
